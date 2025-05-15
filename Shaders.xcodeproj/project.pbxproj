@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		A70C387C2DD679BC0057EA97 /* Shaders.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Shaders.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A70C387C2DD679BC0057EA97 /* Shaders.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = Shaders.app; path = "/Users/arnold/Developer/rozon/Shaders/build/Debug-iphoneos/Shaders.app"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -33,16 +33,7 @@
 			isa = PBXGroup;
 			children = (
 				A70C387E2DD679BC0057EA97 /* Shaders */,
-				A70C387D2DD679BC0057EA97 /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		A70C387D2DD679BC0057EA97 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				A70C387C2DD679BC0057EA97 /* Shaders.app */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -95,7 +86,7 @@
 			mainGroup = A70C38732DD679BC0057EA97;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = A70C387D2DD679BC0057EA97 /* Products */;
+			productRefGroup = A70C38732DD679BC0057EA97;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
